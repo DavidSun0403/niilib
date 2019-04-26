@@ -11,5 +11,5 @@ Reference:
 Nifht-1 offical site: https://nifti.nimh.nih.gov/nifti-1/
 
 
-Copyright: 
-ASTRI
+Lisence:
+Anti-996 License
